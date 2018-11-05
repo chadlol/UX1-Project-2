@@ -52,12 +52,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "A6A56A50-688E-4F5E-9667-C73F69E50F61"
-    }
   ],
   "layout": {
     "_class": "layoutGrid",
