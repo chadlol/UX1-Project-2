@@ -20,7 +20,7 @@
     "constrainProportions": false,
     "do_objectID": "B457F8A3-676C-4DD0-90FA-8336FF7DD809",
     "height": 156,
-    "width": 320,
+    "width": 655,
     "x": 0,
     "y": 0
   },
@@ -126,6 +126,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 24,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 20,
+        "offsetY": 10,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
