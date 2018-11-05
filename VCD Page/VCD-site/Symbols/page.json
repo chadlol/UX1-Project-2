@@ -102,11 +102,23 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B57D9201-63D7-48A7-9ED4-6CF8723991A4"
+    },
+    {
+      "class": "symbolMaster",
       "id": "856FC78D-1D98-4C52-92D1-37F77DCF9211"
     },
     {
       "class": "symbolMaster",
+      "id": "C03B2E0E-B159-475F-8430-CF6D8CAA4590"
+    },
+    {
+      "class": "symbolMaster",
       "id": "626297D0-AC1A-40DF-86AA-974ABB99BD11"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "93AB3D75-2CE9-4EE6-8C65-94CBAA3CB3DC"
     }
   ],
   "name": "Symbols",

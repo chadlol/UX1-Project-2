@@ -21,7 +21,7 @@
     "do_objectID": "1A97C371-E4F2-42EA-8396-73348240728D",
     "height": 30,
     "width": 30,
-    "x": 0,
+    "x": 80,
     "y": 0
   },
   "hasClippingMask": false,
@@ -115,7 +115,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/0f765a6b67051fcf9db02e56d6c1a412383f7d0f.png",
+          "_ref": "images/df5a0727179eeb458761dba00f954f55112b1fda.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BA8E788-9E2A-47EF-9AB9-816E3F1A26CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65441D0C-67F5-438D-BCFA-FA96B62F26FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5076762A-C864-4BC9-B285-A3DBA8BE321A",
+    "height": 170,
+    "width": 314,
+    "x": 3,
+    "y": 1308
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / page-title copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "283FD260-46CA-4041-8852-9B96A424C402",
+      "overrideName": "2F732050-7925-4B03-85C9-846E392E7CAC_stringValue",
+      "value": "Upcoming Events"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDD0D3C2-FACF-4BB0-BA90-B64EAAB35403",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0F2AE80-8068-40C4-BD4E-03C8DEBB1E31",
+  "verticalSpacing": 0
+}

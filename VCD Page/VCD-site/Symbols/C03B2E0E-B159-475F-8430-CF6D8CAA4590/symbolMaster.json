@@ -1,0 +1,130 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E2DE45E1-0E0F-45E6-9FA9-0D71B0EE2F12",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7141,
+  "clippingMaskMode": 0,
+  "do_objectID": "C03B2E0E-B159-475F-8430-CF6D8CAA4590",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2335852-71DB-4017-8326-271E2C71F7CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05D62C2E-81C2-4EB5-9CD7-6EF1D6A480DE",
+    "height": 1089,
+    "width": 320,
+    "x": 100,
+    "y": 3110
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8086C495-EBE9-4CC8-B4DC-556107473F11",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2F8D56CA-45BD-4980-A95D-BC43EC4705F2"
+    },
+    {
+      "class": "text",
+      "id": "A951358A-F7AE-4FDF-9B1F-C3631A8702DB"
+    },
+    {
+      "class": "text",
+      "id": "4DC8C9FB-DF34-4E25-AB82-D5A6FF03FF64"
+    },
+    {
+      "class": "text",
+      "id": "3C5FFD13-CFAB-44A6-ABA7-814C542BC529"
+    },
+    {
+      "class": "text",
+      "id": "1C306DA0-3F90-4384-B785-A1AE20E31D54"
+    },
+    {
+      "class": "text",
+      "id": "C50C3F6D-9B70-4186-9E1B-97192ED4DFB6"
+    },
+    {
+      "class": "text",
+      "id": "353EC16E-B92B-4903-8B94-EFCA479163D1"
+    },
+    {
+      "class": "text",
+      "id": "F0DC757C-8375-42D5-A846-C0EBD7C3E30A"
+    },
+    {
+      "class": "text",
+      "id": "E4711489-4A76-4A13-A037-F32E94CEE58F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 21.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
+  "name": "molecule / course-info-meet-professor-mobile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD93B780-0836-4A04-ABA1-3DEDCB88443D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A4493E9-C3F2-432C-9FCE-06E408C02FC3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A7D7C739-CE1A-41BF-8E89-5075EDE6FA03",
+    "guides": [
+    ]
+  }
+}

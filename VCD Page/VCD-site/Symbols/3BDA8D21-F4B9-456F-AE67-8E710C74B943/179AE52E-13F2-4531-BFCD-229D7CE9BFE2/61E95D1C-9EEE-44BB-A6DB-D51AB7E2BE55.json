@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "SUBMIT"
+    "string": "Submit"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 1137,
     "y": 322
   },
-  "glyphBounds": "{{0, 4}, {63, 15}}",
+  "glyphBounds": "{{0, 4}, {60, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SUBMIT",
+  "name": "Submit",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

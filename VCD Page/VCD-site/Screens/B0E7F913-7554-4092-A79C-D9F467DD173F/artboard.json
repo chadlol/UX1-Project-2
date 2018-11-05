@@ -1,0 +1,165 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "2B76F3F4-00FA-4010-A45F-AED7E6796AB6",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0E7F913-7554-4092-A79C-D9F467DD173F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "581E918E-F027-4A5D-B8AE-2FB767611542",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC16BFAE-16B3-49A3-A24E-79C4469B3739",
+    "height": 2893,
+    "width": 320,
+    "x": 11528,
+    "y": 15922
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EC65E5DE-9F31-4093-B7FC-BFD25F7AB974",
+    "guides": [
+      -181,
+      255,
+      255,
+      255
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "076B366F-7E2C-48F3-92ED-824EE7276123"
+    },
+    {
+      "class": "triangle",
+      "id": "46A6C987-96E5-4BDA-9784-452C4B87C7E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4B542FC-5B2A-412A-AD42-092969041E9E"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1E800C5-9976-4726-8C89-C139A65C6562"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2610783-B545-405E-BDDC-0130D9B3B6E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF7DE532-697D-4A7B-8B82-8E0FEA0844AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F388C936-AE88-48B5-9EA6-803EFA81D6D7"
+    },
+    {
+      "class": "group",
+      "id": "C7B279CB-FCBE-4022-81CC-819B160B08AA"
+    },
+    {
+      "class": "group",
+      "id": "C2611A3D-9EBE-43E5-97B4-C93D44223420"
+    },
+    {
+      "class": "group",
+      "id": "987F7121-D938-4607-A096-101783327DB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BA8E788-9E2A-47EF-9AB9-816E3F1A26CC"
+    },
+    {
+      "class": "group",
+      "id": "2BD3F725-1E3B-4A63-B882-4F3ABD23E396"
+    },
+    {
+      "class": "text",
+      "id": "DC23C90E-FFA7-4268-A880-4C3D22D2C9ED"
+    },
+    {
+      "class": "text",
+      "id": "4E768D41-912A-42CC-802C-7E10AE281E40"
+    },
+    {
+      "class": "text",
+      "id": "5E1DA7D9-4415-4F08-9DC2-C537F452C261"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 21.66666666666667,
+    "do_objectID": "3AA61021-929F-4AC3-B2BC-B15EFDB7612D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
+  "name": "Mobile - News and Events",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5905977-CA81-41F8-8EE1-66514FD7A48C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BD5EE027-F008-4006-B008-272C8AEEB4AE",
+    "guides": [
+      2948,
+      210
+    ]
+  }
+}

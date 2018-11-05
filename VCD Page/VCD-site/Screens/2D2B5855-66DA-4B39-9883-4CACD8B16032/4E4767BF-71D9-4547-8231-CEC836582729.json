@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E4767BF-71D9-4547-8231-CEC836582729",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14FEFD2F-5392-404A-B3DE-E1E45F04CC0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E06344EF-AB6C-4167-805D-76F9E3158C9A",
+    "height": 117,
+    "width": 320,
+    "x": 4,
+    "y": 1185
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / page-title copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C6BA279-5A83-4228-A78A-76B8C999AFF5",
+      "overrideName": "8C467954-5F11-4F9E-BF9D-C7A0C0815A3F_stringValue",
+      "value": "History"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9243A006-40BB-44DF-A08F-14A407660CCD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AAA66E41-C432-4FA1-923F-2F6F0CB133CD",
+  "verticalSpacing": 0
+}

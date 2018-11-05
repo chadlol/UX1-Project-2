@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54C951DD-DEEB-4F0F-BFEA-06F017DD27A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A361FF7-366D-47FD-B13A-CB6007C62179",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4166B58-44C8-418C-803B-B790042E4314",
+    "height": 30,
+    "width": 126,
+    "x": 163,
+    "y": 494
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7092ED93-1EEC-4233-B67F-8D0BAD37D5AD"
+    },
+    {
+      "class": "rectangle",
+      "id": "C102B102-D97C-4328-9A0C-DA82CDAD80EC"
+    },
+    {
+      "class": "rectangle",
+      "id": "99A88B4C-8CD9-4785-9E8F-A282AABEA2A4"
+    }
+  ],
+  "name": "Social media buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DBFAEDA-8492-47DB-B88C-D5EB77F7650F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

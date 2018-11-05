@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9C9D38F6-F5E3-4AB7-8B20-9FF85986E1EE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2659,
+  "clippingMaskMode": 0,
+  "do_objectID": "B57D9201-63D7-48A7-9ED4-6CF8723991A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "912F86E6-8EE7-4022-BD6B-0AD41EFAD5FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9CE6089-F483-418A-A1D9-CF99A22E9E4D",
+    "height": 719,
+    "width": 720,
+    "x": 1584,
+    "y": 1187
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86D365FF-E7C5-4DEE-950D-055CB4B30FEF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "184E128D-E0C0-4D8E-9A90-E93F349828B1"
+    }
+  ],
+  "name": "molecule / image-tiles-mobile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69D35BFB-3159-4072-ADF6-5A4B8E936E73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A4A93964-03B9-44BB-BEC2-736DB61D67C8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF447B33-F91A-4A70-B074-C448571233C5",
+    "guides": [
+    ]
+  }
+}

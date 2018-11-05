@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Login"
+    "string": "Apply Now"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "D2D52735-32C5-4A19-B339-705F0979D865",
     "height": 24,
     "width": 120,
-    "x": 0,
+    "x": 15,
     "y": 11
   },
-  "glyphBounds": "{{37, 4}, {46, 19}}",
+  "glyphBounds": "{{13, 4}, {94, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Login",
+  "name": "Apply Now",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
