@@ -1,0 +1,422 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DFA0890-3B76-4109-B29D-A19AB882AE29",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3A3BAF5-549C-4E4D-BC1D-C4A6A1428387",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0A5C9E6-BAEA-4D1A-AB6B-9C32A479533B",
+    "height": 50,
+    "width": 50,
+    "x": 1235,
+    "y": 1363
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "79D5C228-539F-4996-AC15-2069F1C1E504",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/455663706fc11bb4893495e3c4a13d0693bfb259.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://static.thenounproject.com/png/1706345-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1519400-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1903496-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/375309-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1786647-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1706341-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/857912-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/297777-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1178956-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/14362-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1896234-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/2008030-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1351304-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1556745-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/633997-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/161984-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/920221-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/943792-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/2016597-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/2015360-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/682495-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/965070-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/2018936-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1000223-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/2012381-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/633993-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/760513-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/648391-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/40745-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/41119-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/12366-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/847092-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/897781-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/897784-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/897802-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/952487-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1102367-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1181033-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1198060-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1349836-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310970-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310913-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310918-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310922-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310930-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310931-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310935-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310936-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310950-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310951-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310957-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1310958-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288792-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288794-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288805-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288832-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288834-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288840-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288841-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288847-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288850-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1288853-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1340265-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1338779-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1244065-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1322462-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1322463-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1251166-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1296090-200.png",
+            "type": "src"
+          },
+          {
+            "link": "https://static.thenounproject.com/png/1543488-200.png",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

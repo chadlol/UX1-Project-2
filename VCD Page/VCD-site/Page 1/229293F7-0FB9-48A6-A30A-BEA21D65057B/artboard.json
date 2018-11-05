@@ -28,7 +28,7 @@
     "height": 2970,
     "width": 1440,
     "x": 6534,
-    "y": 15888
+    "y": 15922
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -54,6 +54,26 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "20FF8713-F65D-4CF6-A5CB-A7917B931F4C"
+    },
+    {
+      "class": "bitmap",
+      "id": "B5297375-E6F7-424F-B7A1-C6953002249D"
+    },
+    {
+      "class": "bitmap",
+      "id": "91C280B3-D520-430B-80CA-388D8FCA72A2"
+    },
+    {
+      "class": "bitmap",
+      "id": "D1215CD6-F76F-4CF8-A6C5-A9809BF117F8"
+    },
+    {
+      "class": "bitmap",
+      "id": "282E55B8-732E-4E94-BA52-A5007C6D32D9"
+    }
   ],
   "layout": {
     "_class": "layoutGrid",

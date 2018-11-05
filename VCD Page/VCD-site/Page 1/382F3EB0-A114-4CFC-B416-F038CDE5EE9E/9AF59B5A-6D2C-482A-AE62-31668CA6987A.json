@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AF59B5A-6D2C-482A-AE62-31668CA6987A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 450,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "758D3AFE-8EFF-403E-B542-67E58422023B",
+      "overrideName": "C33F56C8-3E37-4D18-9858-81B189770E59_stringValue",
+      "value": "News & Events"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E3E3E37-8FEF-4047-9DBA-25E8D6BBDACB",
+      "overrideName": "E92CDA9B-98AA-43F6-A9BB-C06A31CA4489_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/50f9d20f73db6aee8a2bb1c7aed4f69d1d22902b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "86D1EA03-97DC-48C5-A1C5-B6D629B1DAE3",
+  "verticalSpacing": 0
+}

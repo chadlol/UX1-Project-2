@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "020B0DC6-0499-4B13-A487-8A055B416DED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97598F22-DEA8-4E04-A8D1-E7FE37C63C07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DC3B9A7-3253-46E5-9C7C-554BD877C51A",
+    "height": 96,
+    "width": 562,
+    "x": 255,
+    "y": 485
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / page-title copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C6BA279-5A83-4228-A78A-76B8C999AFF5",
+      "overrideName": "8C467954-5F11-4F9E-BF9D-C7A0C0815A3F_stringValue",
+      "value": "News"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F932BCF7-4B8E-4C92-971B-CF2EF20023ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AAA66E41-C432-4FA1-923F-2F6F0CB133CD",
+  "verticalSpacing": 0
+}
