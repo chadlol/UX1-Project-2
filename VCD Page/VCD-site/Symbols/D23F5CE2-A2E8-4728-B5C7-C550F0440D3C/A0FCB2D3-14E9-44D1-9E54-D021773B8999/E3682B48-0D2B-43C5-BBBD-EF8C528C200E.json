@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.9607843137254902,
+            "green": 0.9607843137254902,
+            "red": 0.9607843137254902
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Description"
+    "string": "Rules and Policies"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4CEE29EC-2EA8-49E9-A025-73E32A733826",
+  "do_objectID": "E3682B48-0D2B-43C5-BBBD-EF8C528C200E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6F9C9CE7-883C-4AD5-BD3B-F697D4D631D1",
+    "do_objectID": "67E2F94C-BD10-490E-80FB-433BFE8704AE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AA63BDB1-B859-431D-B0B0-DE14F491B4A0",
+    "do_objectID": "ABD5E8FE-8201-470D-901D-9067BF7AA4C3",
     "height": 24,
-    "width": 93,
-    "x": 860,
-    "y": 2762
+    "width": 152,
+    "x": 51,
+    "y": 376
   },
-  "glyphBounds": "{{0, 4}, {93, 19}}",
+  "glyphBounds": "{{0, 4}, {146, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Description Copy 2",
+  "name": "Rules and Policies",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,20 +73,20 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1A8BEBDD-2DCF-4C2B-9C67-53160B480D9A",
+    "do_objectID": "B74B9346-7127-43F4-A0F6-F0F815ED5AB7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FE360311-CC20-4432-81EC-6AD05388EC5D",
+      "do_objectID": "989C0B5E-C4A9-4ECE-86ED-C87EC744901E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -105,5 +105,15 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Rules and Policies"
+        ]
+      }
+    }
+  }
 }

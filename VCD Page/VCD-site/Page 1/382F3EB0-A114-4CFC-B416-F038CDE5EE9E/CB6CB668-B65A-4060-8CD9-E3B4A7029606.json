@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Time"
+    "string": "12:00 PM"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "EA6A4E74-D289-4B05-A544-D26CEB37EC61",
     "height": 24,
-    "width": 40,
+    "width": 78,
     "x": 860,
     "y": 2178
   },
-  "glyphBounds": "{{0, 4}, {40, 15}}",
+  "glyphBounds": "{{0, 4}, {78, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Time Copy",
+  "name": "12:00 PM",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

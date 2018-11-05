@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Time"
+    "string": "01:00 PM"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "9D1BE956-20D4-4196-8C8E-1E0D1A5E9F49",
     "height": 24,
-    "width": 40,
+    "width": 78,
     "x": 860,
     "y": 1656
   },
-  "glyphBounds": "{{0, 4}, {40, 15}}",
+  "glyphBounds": "{{0, 4}, {78, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Time",
+  "name": "01:00 PM",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,5 +105,14 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "date",
+        "options": "MM-DD-2018",
+        "title": "MM-DD-Y"
+      }
+    }
+  }
 }

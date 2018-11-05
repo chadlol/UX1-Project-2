@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Address / Location"
+    "string": "411 Purdy Fork Apt. 531"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "1C1B91E9-EDAF-425D-9E3E-84E61E3C25FE",
     "height": 24,
-    "width": 157,
+    "width": 192,
     "x": 862,
     "y": 2139
   },
-  "glyphBounds": "{{-1, 4}, {157, 16}}",
+  "glyphBounds": "{{-1, 4}, {192, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Address / Location Copy",
+  "name": "411 Purdy Fork Apt.",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,5 +105,16 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "address1",
+        "icon": "address",
+        "id": "address",
+        "index": 8,
+        "title": "Addresses"
+      }
+    }
+  }
 }

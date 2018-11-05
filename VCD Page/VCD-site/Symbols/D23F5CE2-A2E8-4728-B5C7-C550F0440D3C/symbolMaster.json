@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6362ECD6-D8DA-48FA-9449-E59B708A2551",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7141,
+  "clippingMaskMode": 0,
+  "do_objectID": "D23F5CE2-A2E8-4728-B5C7-C550F0440D3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A02C0A5-1928-4CD7-B069-FA90495D0408",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F51EC34-FFA4-480D-9B48-9DB362304C87",
+    "height": 737,
+    "width": 320,
+    "x": 100,
+    "y": -1464
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DB9B9387-2CA9-446C-9885-727017DA942C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A0FCB2D3-14E9-44D1-9E54-D021773B8999"
+    }
+  ],
+  "name": "molecule / footer mobile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4563C780-60AC-44B7-89FB-1FB411899CC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6D653AFD-DA27-4D51-85DB-5FDF48A3EA6A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B113EF6-0F8B-4635-8D1D-18C534E252B6",
+    "guides": [
+    ]
+  }
+}

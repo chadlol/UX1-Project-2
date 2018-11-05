@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16FF9550-7E74-4EF5-81A7-86C8FDAC4F19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A352130D-FCA5-4622-B219-0A1609712EBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53238F51-E8DD-49AD-B997-78303B8A6479",
+    "height": 319,
+    "width": 640,
+    "x": 0,
+    "y": 756
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / image-tiles",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E8BA4FA-B316-4DBE-837D-FC1CD8766859",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67C4E21C-3C4F-4EBD-9CC2-20B6122DB10E",
+  "verticalSpacing": 0
+}

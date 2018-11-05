@@ -64,9 +64,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.5411764705882353,
+            "green": 0.407843137254902,
+            "red": 0.203921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -149,6 +149,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
+            "blue": 0.5411764705882353,
+            "green": 0.407843137254902,
+            "red": 0.203921568627451
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LibreBaskerville-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 205,
+        "location": 506
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -168,8 +196,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 206,
-        "location": 506
+        "length": 1,
+        "location": 711
       },
       {
         "_class": "stringAttribute",
@@ -234,9 +262,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.5411764705882353,
+            "green": 0.407843137254902,
+            "red": 0.203921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",

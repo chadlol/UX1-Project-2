@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0E94574-1085-415C-921A-964E317F0042",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A86381F-B749-4A83-85B5-A714FF4EE1E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A127118F-5AEE-4667-913E-DCFA5252A030",
+    "height": 76,
+    "width": 159,
+    "x": 1251,
+    "y": 704
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3FE32044-00CB-49B7-84A8-203458AC5E4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "21F2AB8F-E597-42B3-AAEC-516EBF1B25FE"
+    },
+    {
+      "class": "triangle",
+      "id": "00585F4E-B78B-4ACD-ACDE-056B17C0D8E0"
+    },
+    {
+      "class": "triangle",
+      "id": "7B2FFB47-D2A1-4073-A9A7-448C98460872"
+    }
+  ],
+  "name": "Slider Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73237A32-068E-4BCE-8D1A-81E3C4827B5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 11,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 5,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "Title of event"
+    "string": "Help Finding Information Online"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "3A3066C2-AF8A-4505-9B37-4130B9FDCAC4",
     "height": 48,
-    "width": 213,
+    "width": 10847,
     "x": 862,
     "y": 1554
   },
-  "glyphBounds": "{{0, 9}, {213, 29}}",
+  "glyphBounds": "{{1, 9}, {530, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title of event",
+  "name": "Help Finding Informa",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,5 +105,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "title"
+        },
+        "title": "Technology"
+      }
+    }
+  }
 }
