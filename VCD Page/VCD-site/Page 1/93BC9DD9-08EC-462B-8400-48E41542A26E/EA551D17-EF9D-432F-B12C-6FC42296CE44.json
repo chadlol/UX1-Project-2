@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B956D147-60FD-476B-903D-A517090BF33B",
+  "do_objectID": "EA551D17-EF9D-432F-B12C-6FC42296CE44",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "606BE858-4684-4EF3-9C62-962829B52D87",
+    "do_objectID": "ACD9717B-4F18-4A6A-BBEE-64AFAD5B21D6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2AE2D13C-DC50-4F55-8EC1-ECF30CFD212E",
-    "height": 320,
-    "width": 320,
-    "x": 857,
-    "y": 1047
+    "do_objectID": "B816A7ED-7119-4034-BB43-1A1E50596B77",
+    "height": 350,
+    "width": 1440,
+    "x": 0,
+    "y": 938
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -95,12 +95,12 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "60CB4E72-B89D-4667-8631-F13E861A55FC",
+    "do_objectID": "8CF8F73A-71AD-4783-A26B-BFF7308D91BC",
     "endMarkerType": 0,
     "fills": [
       {
@@ -115,7 +115,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/e4eacd119a9d11a44b17b882be9382446a588bab.png",
+          "_ref": "images/228955f84f3e58d54ad7f16b24c44580e5a3a05a.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -132,11 +132,18 @@
   "userInfo": {
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
-        "category": "Office",
-        "icon": "sun",
-        "index": 3,
-        "mode": "unsplash",
-        "title": "Header"
+        "asTile": 0,
+        "items": [
+          {
+            "link": "http://worldwindtours.com/wp-content/uploads/2018/06/custom-google-map-19.png",
+            "type": "src"
+          },
+          {
+            "link": "http://worldwindtours.com/wp-content/uploads/2018/06/custom-google-map-18.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
       }
     }
   }

@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9607843137254902,
-            "green": 0.9607843137254902,
-            "red": 0.9607843137254902
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LeagueSpartan-Bold",
-              "size": 32
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Why  you should\nstudy design."
+    "string": "Email"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6F5B60D1-47A4-4272-9A78-76A4EAF457F1",
+  "do_objectID": "2BCF7748-A23C-432D-87A2-936B3FC5A434",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4BCC4F4D-847F-413C-A508-41E55A44BC6C",
+    "do_objectID": "94EA8615-A188-408A-81A7-C6DF92D79EFD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4C820BB3-2F05-4CAB-AE48-AD9D3F653D30",
-    "height": 96,
-    "width": 276,
-    "x": 140,
-    "y": 48
+    "do_objectID": "1784B8EE-BB0E-498D-BF0E-347FE84D36E9",
+    "height": 24,
+    "width": 62,
+    "x": 860,
+    "y": 750
   },
-  "glyphBounds": "{{-1, 9}, {276, 85}}",
+  "glyphBounds": "{{0, 4}, {45, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Why you should study",
+  "name": "Email",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,26 +73,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "611B514C-EB27-4FFB-AB53-DDB430C8EBF2",
+    "do_objectID": "7E24E599-8B38-4FEF-8668-C81A3CEC47C0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A8011A22-608F-4DD1-B6D3-203A808A6646",
+      "do_objectID": "DA326364-4646-4CD2-BFE0-DE97D45A1E2C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9607843137254902,
-          "green": 0.9607843137254902,
-          "red": 0.9607843137254902
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LeagueSpartan-Bold",
-            "size": 32
+            "size": 16
           }
         },
         "paragraphStyle": {
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

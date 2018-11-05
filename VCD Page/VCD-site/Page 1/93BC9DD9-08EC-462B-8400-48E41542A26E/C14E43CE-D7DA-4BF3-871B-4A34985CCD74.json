@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9607843137254902,
-            "green": 0.9607843137254902,
-            "red": 0.9607843137254902
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,24 +22,26 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Why  you should\nstudy design."
+    "string": "Have a question?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6F5B60D1-47A4-4272-9A78-76A4EAF457F1",
+  "do_objectID": "C14E43CE-D7DA-4BF3-871B-4A34985CCD74",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4BCC4F4D-847F-413C-A508-41E55A44BC6C",
+    "do_objectID": "453AB78C-96D5-445D-8322-AB9579D93B18",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4C820BB3-2F05-4CAB-AE48-AD9D3F653D30",
-    "height": 96,
-    "width": 276,
-    "x": 140,
-    "y": 48
+    "do_objectID": "CC5F9277-004C-47AC-A3E4-D5C027B4D14E",
+    "height": 32,
+    "width": 286,
+    "x": 860,
+    "y": 530
   },
-  "glyphBounds": "{{-1, 9}, {276, 85}}",
+  "glyphBounds": "{{1, -2}, {285, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Why you should study",
+  "name": "Have a question?",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,20 +75,20 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "611B514C-EB27-4FFB-AB53-DDB430C8EBF2",
+    "do_objectID": "F1864AE6-FCC1-492C-9E33-B968B5F4ED61",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A8011A22-608F-4DD1-B6D3-203A808A6646",
+      "do_objectID": "FECF7517-F1C5-4283-BFD3-151BE97DE6A2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9607843137254902,
-          "green": 0.9607843137254902,
-          "red": 0.9607843137254902
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -97,7 +99,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         },
         "textStyleVerticalAlignmentKey": 0
       },

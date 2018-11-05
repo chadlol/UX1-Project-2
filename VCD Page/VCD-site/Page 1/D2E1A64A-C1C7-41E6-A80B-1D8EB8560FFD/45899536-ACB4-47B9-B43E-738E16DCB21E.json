@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DCFC1ED8-6F48-4C76-89F7-1F8D82C723C6",
+  "do_objectID": "45899536-ACB4-47B9-B43E-738E16DCB21E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "593519E7-EEC6-4382-B05F-433E0A1BEB8D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3DAF37B6-D21F-47D1-8672-26998EA6B136",
-    "height": 96,
-    "width": 562,
-    "x": 260,
-    "y": 485
+    "height": 50,
+    "width": 120,
+    "x": 860,
+    "y": 940
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,29 +28,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / page-title copy",
+  "name": "atom / White Btn Copy 7",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7C6BA279-5A83-4228-A78A-76B8C999AFF5",
-      "overrideName": "8C467954-5F11-4F9E-BF9D-C7A0C0815A3F_stringValue",
-      "value": "About"
+      "do_objectID": "64E3D8D8-CFD8-43BB-8803-61A26B102F9E",
+      "overrideName": "57592180-E8D4-4AC0-9CC5-AF2DD24EF5FA_stringValue",
+      "value": "Submit"
     }
   ],
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9BBD42AB-6E25-44B5-BC86-01AE879FA204",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.75
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AAA66E41-C432-4FA1-923F-2F6F0CB133CD",
+  "symbolID": "1E49E5E2-D969-4CBA-BDBA-F0DD4835C551",
   "verticalSpacing": 0
 }

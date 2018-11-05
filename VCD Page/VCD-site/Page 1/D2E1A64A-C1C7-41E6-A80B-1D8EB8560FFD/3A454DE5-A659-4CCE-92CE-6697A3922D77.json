@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B956D147-60FD-476B-903D-A517090BF33B",
+  "do_objectID": "3A454DE5-A659-4CCE-92CE-6697A3922D77",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "606BE858-4684-4EF3-9C62-962829B52D87",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2AE2D13C-DC50-4F55-8EC1-ECF30CFD212E",
-    "height": 320,
-    "width": 320,
-    "x": 857,
-    "y": 1047
+    "height": 350,
+    "width": 1440,
+    "x": 0,
+    "y": 1065
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -95,12 +93,11 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "60CB4E72-B89D-4667-8631-F13E861A55FC",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,14 +105,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
-        "fillType": 4,
+        "fillType": 0,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/e4eacd119a9d11a44b17b882be9382446a588bab.png",
+          "_ref": "images/228955f84f3e58d54ad7f16b24c44580e5a3a05a.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -132,11 +129,18 @@
   "userInfo": {
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
-        "category": "Office",
-        "icon": "sun",
-        "index": 3,
-        "mode": "unsplash",
-        "title": "Header"
+        "asTile": 0,
+        "items": [
+          {
+            "link": "http://worldwindtours.com/wp-content/uploads/2018/06/custom-google-map-19.png",
+            "type": "src"
+          },
+          {
+            "link": "http://worldwindtours.com/wp-content/uploads/2018/06/custom-google-map-18.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
       }
     }
   }
