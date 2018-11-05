@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8508663D-B4F4-4A76-9016-2A157AAF9A92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 450,
+    "width": 1440,
+    "x": 0,
+    "y": 3
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "933E02BE-1D67-407A-BCB4-34C5CBE37809",
+      "overrideName": "FFD61D1A-FB8A-4A77-9BF6-D132C146AF2C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8e088f79af074f305f9144a826845dd3356aa07e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "720E8D22-8E25-4497-A4D9-FCA5BD7643FB",
+      "overrideName": "0D8A5946-11B0-4125-B50F-7434FA4F8160_stringValue",
+      "value": "About VCD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6BF6209A-5E52-4217-9704-7EE88D62F4C5",
+  "verticalSpacing": 0
+}

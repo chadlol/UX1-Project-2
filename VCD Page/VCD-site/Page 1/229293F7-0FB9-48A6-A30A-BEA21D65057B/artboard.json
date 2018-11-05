@@ -31,7 +31,7 @@
     "y": 15922
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,19 +60,11 @@
     },
     {
       "class": "bitmap",
-      "id": "B5297375-E6F7-424F-B7A1-C6953002249D"
-    },
-    {
-      "class": "bitmap",
       "id": "91C280B3-D520-430B-80CA-388D8FCA72A2"
     },
     {
       "class": "bitmap",
       "id": "D1215CD6-F76F-4CF8-A6C5-A9809BF117F8"
-    },
-    {
-      "class": "bitmap",
-      "id": "282E55B8-732E-4E94-BA52-A5007C6D32D9"
     }
   ],
   "layout": {

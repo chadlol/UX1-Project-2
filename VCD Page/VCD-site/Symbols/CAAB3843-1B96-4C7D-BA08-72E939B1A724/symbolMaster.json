@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 95,
+  "changeIdentifier": 398,
   "clippingMaskMode": 0,
   "do_objectID": "CAAB3843-1B96-4C7D-BA08-72E939B1A724",
   "exportOptions": {
@@ -46,15 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "123AE2C0-6DA7-46D4-BB31-6511172CFC84"
     }
   ],
-  "name": "molecule / header",
-  "nameIsFixed": false,
+  "name": "molecule / header courses",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

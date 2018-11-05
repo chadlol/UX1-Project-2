@@ -22,7 +22,7 @@
     "height": 16,
     "width": 16,
     "x": 620,
-    "y": 1230
+    "y": 1226
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -90,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2666666666666667,
-          "green": 0.2666666666666667,
-          "red": 0.2666666666666667
+          "blue": 0.5411764705882353,
+          "green": 0.407843137254902,
+          "red": 0.203921568627451
         },
         "fillType": 0,
         "isEnabled": true,
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2666666666666667,
-          "green": 0.2666666666666667,
-          "red": 0.2666666666666667
+          "blue": 0.5411764705882353,
+          "green": 0.407843137254902,
+          "red": 0.203921568627451
         },
         "fillType": 0,
         "isEnabled": true,

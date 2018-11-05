@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E9C96EBC-CA40-456A-9B01-21F5892FADD7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 647,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED6E8123-87FA-4E68-B819-13E696506F01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92A3F958-2341-4FFD-9D4E-A3DB0790D849",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4ADA5447-DBBD-4B17-842C-EFA17CE5804D",
+    "height": 450,
+    "width": 1440,
+    "x": -2922,
+    "y": 637
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "89AD0545-D75F-4F5F-84CD-404A841B3FB6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0BF5FF1E-2A43-44BE-A45F-9EA6AAEC8D82"
+    }
+  ],
+  "name": "molecule / header about",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74722236-C968-4469-92C3-147404F03308",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6BF6209A-5E52-4217-9704-7EE88D62F4C5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7303F3E9-E1E4-47F9-B858-4024F55DEE5E",
+    "guides": [
+    ]
+  }
+}

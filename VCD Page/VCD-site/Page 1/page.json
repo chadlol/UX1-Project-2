@@ -50,11 +50,27 @@
     },
     {
       "class": "artboard",
+      "id": "6518B642-2AEA-4E14-8213-E7D4A3E0788F"
+    },
+    {
+      "class": "artboard",
       "id": "DF35CFB2-1E88-4936-BEE9-F2DD7DC5FBB0"
     },
     {
       "class": "artboard",
       "id": "B011B70C-D1A7-4F09-8DFB-1E50FA9EFFFD"
+    },
+    {
+      "class": "artboard",
+      "id": "8AA26410-CDCF-4D67-AD33-184314B93EB4"
+    },
+    {
+      "class": "artboard",
+      "id": "D2E1A64A-C1C7-41E6-A80B-1D8EB8560FFD"
+    },
+    {
+      "class": "artboard",
+      "id": "2794E1EB-5F1A-4D24-8B03-93A47B7B8F42"
     },
     {
       "class": "artboard",
@@ -82,7 +98,7 @@
     },
     {
       "class": "bitmap",
-      "id": "CDCEC62A-CD4C-40B7-90BA-6DADA8145C95"
+      "id": "E7CE7296-41BC-4369-BD70-F979B9EF1331"
     }
   ],
   "name": "Page 1",

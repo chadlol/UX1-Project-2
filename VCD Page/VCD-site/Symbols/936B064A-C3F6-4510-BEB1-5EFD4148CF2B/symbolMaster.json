@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "046BFC84-0D71-4B75-9F27-2CC9884971C8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1252,
+  "clippingMaskMode": 0,
+  "do_objectID": "936B064A-C3F6-4510-BEB1-5EFD4148CF2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCA636CA-08D7-4EA8-89B6-7AAE15AFF36B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B90C7C3-3F4E-4B5E-94DA-76E13BBAE8F2",
+    "height": 450,
+    "width": 1440,
+    "x": -4433,
+    "y": 637
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A473228F-707D-4B63-86DD-7CECBF041102",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "92E945AE-9D62-4C50-8A06-0866B93F9633"
+    }
+  ],
+  "name": "molecule / header contact",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E35AB2F-3531-4653-A2B7-8F1433CD1F2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF3B3BC2-26E3-4D6C-92EE-8B326B5557FC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8920944E-D75F-4697-9754-0209576384C8",
+    "guides": [
+    ]
+  }
+}

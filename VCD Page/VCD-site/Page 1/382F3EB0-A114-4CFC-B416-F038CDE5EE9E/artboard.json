@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "39324F2A-345E-478A-8CC2-D795FFA57C7E",
-    "height": 3537,
+    "height": 3528,
     "width": 1440,
     "x": 9789,
     "y": 15922
@@ -166,10 +166,6 @@
       "id": "76B9D082-3149-4395-A8A4-1EE640094B3C"
     },
     {
-      "class": "group",
-      "id": "5FDEC4E5-4F22-4051-AAD1-EEC098334F45"
-    },
-    {
       "class": "rectangle",
       "id": "E1B9C41F-172C-4E06-869F-2F21FB71CEDA"
     },
@@ -248,6 +244,10 @@
     {
       "class": "symbolInstance",
       "id": "9AF59B5A-6D2C-482A-AE62-31668CA6987A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDA1F6D2-1FBE-4E10-B7D1-CE3B7B7EC56A"
     }
   ],
   "layout": {
@@ -266,7 +266,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1440
   },
-  "name": "Wireframe - News and Events Copy",
+  "name": "Mockup - News and Events",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

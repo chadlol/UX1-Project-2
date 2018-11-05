@@ -54,9 +54,9 @@
     "constrainProportions": false,
     "do_objectID": "7D0BD383-A344-47EA-BF3E-3EB80AC7A328",
     "height": 160,
-    "width": 677.3947105838353,
-    "x": 741.0191150273039,
-    "y": 967
+    "width": 677,
+    "x": 741,
+    "y": 963
   },
   "glyphBounds": "{{0, 8}, {671, 147}}",
   "hasClippingMask": false,
