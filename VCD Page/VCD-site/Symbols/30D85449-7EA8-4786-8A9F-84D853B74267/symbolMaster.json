@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 25,
+  "clippingMaskMode": 0,
+  "do_objectID": "30D85449-7EA8-4786-8A9F-84D853B74267",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 407,
+    "x": 2524,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9F6C0A55-FBA0-47AC-A165-26640E065D5F"
+    },
+    {
+      "class": "text",
+      "id": "BB4C7DD3-6492-4EEF-9078-584093FC9B32"
+    },
+    {
+      "class": "text",
+      "id": "8A41C29A-344F-441D-9C77-75E9D19F24B3"
+    },
+    {
+      "class": "text",
+      "id": "4B3FA17A-1596-4132-B856-35D7F457C45F"
+    },
+    {
+      "class": "text",
+      "id": "0C426BAC-C892-4D9F-95F4-09692570FE7A"
+    },
+    {
+      "class": "text",
+      "id": "0F55ED41-F65B-478B-9B16-604785F8127D"
+    }
+  ],
+  "name": "atom / course-details",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39DC730A-5B1B-4806-AF9A-6DDE14B7B2A1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

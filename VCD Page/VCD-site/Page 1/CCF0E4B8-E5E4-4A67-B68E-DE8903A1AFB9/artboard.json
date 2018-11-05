@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1FBFF1FA-8CC0-47BA-8134-1EECD0F3275B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCF0E4B8-E5E4-4A67-B68E-DE8903A1AFB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35B1CF0B-BC84-43ED-9072-E1D2B995C3D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3227D1B9-880F-495B-9FFC-855BB58D9AA2",
+    "height": 2019,
+    "width": 1440,
+    "x": 8130,
+    "y": 10198
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EFA538D6-01CF-415E-8568-806FA64FE4EA",
+    "guides": [
+      -181,
+      255,
+      255,
+      255
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "85D9DACC-13F4-4F3F-B944-C489B0A209D9"
+    },
+    {
+      "class": "group",
+      "id": "79C1FB04-4DE8-474E-BCA2-CED517C2E416"
+    },
+    {
+      "class": "text",
+      "id": "DF157313-6AD1-4C32-8977-36069A1447AC"
+    },
+    {
+      "class": "text",
+      "id": "DDBA76D2-CDC1-46DA-B09A-DC6F1167E7FE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "603BEB29-A551-4B1D-892B-5D92509EC202",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 40,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Wireframe - Courses",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B431279-DED9-4B2E-A414-885C9D981DF7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "50B78102-B9B3-44E0-9932-5AC2BFAC7DE7",
+    "guides": [
+      2948
+    ]
+  }
+}

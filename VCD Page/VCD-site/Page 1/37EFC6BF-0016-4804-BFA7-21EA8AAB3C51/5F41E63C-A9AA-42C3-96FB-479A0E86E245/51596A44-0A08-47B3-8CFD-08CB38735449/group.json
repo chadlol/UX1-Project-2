@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "51596A44-0A08-47B3-8CFD-08CB38735449",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 1440,
+    "x": 0,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8E7F97A1-7475-437A-AC1B-436DCA261371"
+    },
+    {
+      "class": "rectangle",
+      "id": "F8B091F8-F601-4963-8BEA-BCE7090CD98F"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D295EE1-7328-4068-8261-5F114F4E08D5"
+    },
+    {
+      "class": "rectangle",
+      "id": "410384D4-519A-4EE3-8E68-B1C88E5DFABA"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3A9F422-82C5-4A22-926E-BCE3BA8E5114"
+    },
+    {
+      "class": "rectangle",
+      "id": "47F5E452-A476-4B10-8EC5-6967638A59E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "F7E2BB68-6446-447B-B9BC-3951059FE90A"
+    },
+    {
+      "class": "rectangle",
+      "id": "26B15B80-A9CF-435D-862C-E540DA618D5A"
+    }
+  ],
+  "name": "Featured Student Work",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

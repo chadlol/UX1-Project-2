@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0A791E2B-936A-4662-A0E6-CF46E2049969",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 890,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAC570AF-2E9C-452F-B085-BEA98FFC313D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9928853-4876-47DD-B419-DAB8C93FA8CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1325DD73-65FD-4D52-BDB0-AD16061A94E6",
+    "height": 50,
+    "width": 120,
+    "x": 2304,
+    "y": 288
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B61FC1A1-8738-4CA2-9AB2-5FEC7CD30847",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3F72A03F-FAD2-453D-9454-3D6F7BA6B8DF"
+    }
+  ],
+  "name": "atom / White Btn Copy 6",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A0075DF-D418-45FF-A4DF-D7AE89ED14ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E6EC324-CEA7-4DC2-9B62-1BAB889324D7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D1F3DC41-2E69-4B54-9EA1-686FBC7539C6",
+    "guides": [
+    ]
+  }
+}

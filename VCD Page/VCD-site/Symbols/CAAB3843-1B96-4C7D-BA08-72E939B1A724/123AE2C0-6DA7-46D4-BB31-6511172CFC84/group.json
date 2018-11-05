@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "123AE2C0-6DA7-46D4-BB31-6511172CFC84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5121F7E9-198A-4714-9B8E-AF7F4AC847D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E44AC19-0140-4BA9-89C8-029D26C53186",
+    "height": 450,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E92CDA9B-98AA-43F6-A9BB-C06A31CA4489"
+    },
+    {
+      "class": "rectangle",
+      "id": "B4A8CC98-A029-45A0-BEC9-69170B7E41E9"
+    },
+    {
+      "class": "group",
+      "id": "BFCF7D5B-D86D-40F9-A3BF-0F020F4D5267"
+    },
+    {
+      "class": "group",
+      "id": "9F5D3954-AD84-4FC2-9DE5-1BC3FCEF0407"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7174C31D-260D-432A-AEB0-D592058B77F0"
+    }
+  ],
+  "name": "Nav/Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF4B378D-C3D5-4B48-A771-17CD6887A676",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

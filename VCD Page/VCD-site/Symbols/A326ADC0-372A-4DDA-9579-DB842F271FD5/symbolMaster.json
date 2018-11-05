@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E077A405-96AC-48F1-B165-E07D2B293425",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 709,
+  "clippingMaskMode": 0,
+  "do_objectID": "A326ADC0-372A-4DDA-9579-DB842F271FD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A91E5DBE-20A4-4730-A0A5-8F4052E2B5FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "814A38C9-300C-47F4-8D1C-3DA5A01F93C2",
+    "height": 50,
+    "width": 120,
+    "x": 2304,
+    "y": 144
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "507B51B5-22A8-4F0E-896C-B39D7083A9D0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F5986BF2-FA19-4107-8753-1F7E1EFE7929"
+    }
+  ],
+  "name": "atom / White Btn Copy 4",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA21991D-D3CA-473F-BB58-34B153F57246",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3AE0C9BC-D84D-4256-B2A0-15C955D14944",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A5584320-1425-4538-9946-90F4D8CEBADC",
+    "guides": [
+    ]
+  }
+}

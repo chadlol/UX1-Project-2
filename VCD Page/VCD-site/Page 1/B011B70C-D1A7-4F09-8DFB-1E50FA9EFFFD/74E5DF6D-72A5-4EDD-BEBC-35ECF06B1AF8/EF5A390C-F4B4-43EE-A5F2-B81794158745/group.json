@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF5A390C-F4B4-43EE-A5F2-B81794158745",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79E0D23E-E3BF-4338-85F0-D01FC99CBA24",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E37D6313-CE19-4590-8FCB-74283439C16A",
+    "height": 50,
+    "width": 120,
+    "x": 1270,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E592844C-21C6-493C-AA54-2E604FE4E7D8"
+    },
+    {
+      "class": "text",
+      "id": "A19CF808-4B82-4DBC-9336-8B8F89BEC15E"
+    }
+  ],
+  "name": "Login Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9508E5C0-C0B3-44A2-94F7-9B4EFD356EAC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

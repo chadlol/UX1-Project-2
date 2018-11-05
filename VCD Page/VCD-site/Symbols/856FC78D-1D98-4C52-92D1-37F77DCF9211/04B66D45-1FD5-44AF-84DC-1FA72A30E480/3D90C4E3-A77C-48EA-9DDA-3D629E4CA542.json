@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D90C4E3-A77C-48EA-9DDA-3D629E4CA542",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B372C3F9-0048-4050-B7AB-63B31375C345",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF5F7D30-F45F-49C8-B1EF-267993D51699",
+    "height": 50,
+    "width": 200,
+    "x": 284,
+    "y": 710
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / White Btn Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EC72738-EA79-4460-8251-D9608FDA55FD",
+      "overrideName": "CE1AE0A6-AAEE-416A-B167-BDA602839E6F_stringValue",
+      "value": "More Details"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B984485-CB58-49AC-AB25-41FEAC505A5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E6EC324-CEA7-4DC2-9B62-1BAB889324D7",
+  "verticalSpacing": 0
+}

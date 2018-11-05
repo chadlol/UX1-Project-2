@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EBDD010-3BA2-47A5-880A-B5F808B30CED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBF14BF1-3C1F-443F-9440-5AD1FCB635FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC61185E-9B60-492C-B380-01B6B8819357",
+    "height": 720,
+    "width": 1440,
+    "x": 0,
+    "y": 1776
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FBF6D469-65FB-4BFF-B5A8-A5AC6A89DB73"
+    },
+    {
+      "class": "rectangle",
+      "id": "D321457A-9B3F-4446-B345-72ECEADA02EA"
+    },
+    {
+      "class": "rectangle",
+      "id": "5403BEE4-78F8-4613-8D15-A7F4BDF524F2"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC45F0E9-B39C-409E-AD0E-AAC2275EA687"
+    },
+    {
+      "class": "rectangle",
+      "id": "6CA9EF33-F1E8-47E0-8371-DBC075E986CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "C1705B86-E1FA-4BA7-95BD-F9FACF7ABAE4"
+    },
+    {
+      "class": "rectangle",
+      "id": "E6128FC1-95DE-46BE-8597-80EB2AB897DE"
+    },
+    {
+      "class": "rectangle",
+      "id": "7DB1AE7D-64C9-472A-B59F-5CE86FC9D737"
+    }
+  ],
+  "name": "Featured Student Work",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A329217-8C94-4C58-A600-92DECBC37089",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6777B16B-9C19-409E-B590-A9C363BB2F84",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 971,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FA8CB22-C933-4252-A76E-DEDD3A494728",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42A75361-1A15-46BC-9185-010E9B331E31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D74BA60C-E19D-40A1-8F46-718A4C8CD9BA",
+    "height": 50,
+    "width": 120,
+    "x": 2304,
+    "y": 360
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5EEA432F-3D18-45C4-8D38-2E6ED4E923EE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A74D5658-D85C-481D-A980-C5E477376FB0"
+    }
+  ],
+  "name": "atom / White Btn Copy 7",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3058776C-631A-4743-AFBB-18016CA9F6A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E49E5E2-D969-4CBA-BDBA-F0DD4835C551",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "17A2B01E-A327-4A72-9511-78C346899C50",
+    "guides": [
+    ]
+  }
+}

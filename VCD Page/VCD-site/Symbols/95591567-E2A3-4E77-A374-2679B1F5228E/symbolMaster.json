@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F4A0DEFD-25C0-44E1-A2F7-1019B74C8C5E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 536,
+  "clippingMaskMode": 0,
+  "do_objectID": "95591567-E2A3-4E77-A374-2679B1F5228E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EEAC335-2CE6-41DD-98B3-2AF542168BCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1533E6A4-FF01-419F-B421-DD7627AC1A49",
+    "height": 50,
+    "width": 120,
+    "x": 2304,
+    "y": 72
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F6125D34-095B-41FD-B55D-C4FC14DEC28C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1A7F6B38-8370-4ED6-B908-A2E9506D3DFF"
+    }
+  ],
+  "name": "atom / White Btn Copy 3",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2980D9F1-F996-4543-89FB-BF0E84739C6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6474CF6B-BF1F-4F53-9890-39D9243C1BED",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A6D32D79-9455-41FD-9269-670DA1A9420D",
+    "guides": [
+    ]
+  }
+}

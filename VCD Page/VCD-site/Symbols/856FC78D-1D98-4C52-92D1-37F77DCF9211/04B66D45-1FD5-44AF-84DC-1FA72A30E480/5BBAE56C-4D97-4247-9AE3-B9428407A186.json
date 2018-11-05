@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BBAE56C-4D97-4247-9AE3-B9428407A186",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDD6BD04-D2D5-4EA3-B2D0-F8D76BC0DFDD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2A7A3B7-8B3A-4A2E-A6EE-400851F50552",
+    "height": 50,
+    "width": 110,
+    "x": 665,
+    "y": 79
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / White Btn",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5BC7F41-A224-4BA1-B539-9003FFDBF4D8",
+      "overrideName": "BC37C4A6-1348-493B-BFB7-B9D4D64955BC_stringValue",
+      "value": "Save"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EA163A9-B17B-4B27-BC36-387CD93A2943",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3AE0C9BC-D84D-4256-B2A0-15C955D14944",
+  "verticalSpacing": 0
+}

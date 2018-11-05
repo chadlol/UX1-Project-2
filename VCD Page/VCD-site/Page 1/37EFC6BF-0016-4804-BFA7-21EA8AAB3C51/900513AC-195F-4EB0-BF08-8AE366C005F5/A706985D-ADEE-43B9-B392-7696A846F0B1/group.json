@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A706985D-ADEE-43B9-B392-7696A846F0B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "923E1F45-AB3C-4259-B841-BA01E57E1133",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F74DB5C0-CE58-4650-B7DF-73270118F351",
+    "height": 234,
+    "width": 360,
+    "x": 1080,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A982F075-A5E0-4231-9E71-B04A0DEC2947"
+    },
+    {
+      "class": "text",
+      "id": "D1268830-2B2D-4B2A-B65E-F2C11900C265"
+    },
+    {
+      "class": "text",
+      "id": "AA00A10F-3573-457E-AA4E-9A6FE911F367"
+    }
+  ],
+  "name": "Tab Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "F3E4FFAA-484A-4362-84E8-AC6EC59E525E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
