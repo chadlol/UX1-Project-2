@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FF30576-E007-4039-B003-8AFDCD8F6145",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62CDD5B8-DF41-4446-BD76-40E3236D5DDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6BCED59-E0EE-4B9D-9533-E5A574F66238",
+    "height": 234,
+    "width": 360,
+    "x": 1296,
+    "y": 1980
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7786FD57-21BA-4ADB-AD35-E92ADF3A584D"
+    },
+    {
+      "class": "text",
+      "id": "6341FC61-5C1C-4BBE-8286-45B2EF8F2248"
+    },
+    {
+      "class": "text",
+      "id": "74FE3D88-A199-4158-84B9-BB31AC8EEF65"
+    }
+  ],
+  "name": "Tab",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "D5826B74-688E-47B7-8952-EB43C93CE131",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 25,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 3,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 20,
+        "offsetY": 22,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

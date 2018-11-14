@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 524,
+  "changeIdentifier": 15132,
   "clippingMaskMode": 0,
   "do_objectID": "862450E3-142F-4580-8A29-AC010EEB309A",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 475,
-    "x": 1640,
-    "y": 0
+    "height": 85,
+    "width": 750,
+    "x": 1540,
+    "y": -125
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,11 +51,15 @@
     {
       "class": "group",
       "id": "B549D4AB-E4D3-40D3-9508-5E03873F4D0F"
+    },
+    {
+      "class": "group",
+      "id": "9968F1E7-B6FD-444A-95C6-A6EAFAE77AC5"
     }
   ],
   "name": "molecule / nav",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

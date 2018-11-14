@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1097D70D-7F12-496D-B8D9-04DA086C8898",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0518916-4BA5-4C1C-9C27-3AB13C1F147E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69C617BA-949D-4D7F-98A7-9850D6C3133E",
+    "height": 23,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6353C1DB-C62D-467B-B435-221BC71AC846"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0A0FEAB-2BA2-41DB-8A84-68A33BB1F107"
+    },
+    {
+      "class": "shapePath",
+      "id": "033F1D52-1D98-45B0-A731-F4AE9D4B8FC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "A058EFC2-470E-4970-97C9-BCA02BC64EAC"
+    },
+    {
+      "class": "shapePath",
+      "id": "051469EC-32A7-4E44-954A-FFC2326E172E"
+    }
+  ],
+  "name": "l-wing",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51AC5869-5E4F-444C-9373-AE727640ED41",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

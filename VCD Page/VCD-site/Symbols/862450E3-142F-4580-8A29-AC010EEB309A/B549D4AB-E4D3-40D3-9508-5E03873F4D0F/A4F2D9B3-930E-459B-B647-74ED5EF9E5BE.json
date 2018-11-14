@@ -52,8 +52,8 @@
     "constrainProportions": false,
     "do_objectID": "4DC47F78-1DD3-4C7C-866A-C36336DDD090",
     "height": 24,
-    "width": 67,
-    "x": 79,
+    "width": 85,
+    "x": 100,
     "y": 0
   },
   "glyphBounds": "{{0, 4}, {66, 15}}",
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

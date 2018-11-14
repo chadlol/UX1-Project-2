@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "01C2E6E5-6A86-4076-8DE0-073809497BBF",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 0.15,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -90,7 +99,7 @@
     "gutterWidth": 40,
     "guttersOutside": true,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1440

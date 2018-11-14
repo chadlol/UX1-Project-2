@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 0.5,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3676,
+    "height": 3072,
     "width": 2570,
     "x": -602,
     "y": -382
@@ -44,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -53,10 +62,18 @@
     {
       "class": "rectangle",
       "id": "9F4DA046-599C-4F45-BC31-A0E1831C204C"
+    },
+    {
+      "class": "group",
+      "id": "26DA9D80-D4B2-4B85-97FE-ACFC621DAFEC"
+    },
+    {
+      "class": "group",
+      "id": "93D880BC-4AE0-4CF4-A426-D7D22DC50B51"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Visual Comp",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

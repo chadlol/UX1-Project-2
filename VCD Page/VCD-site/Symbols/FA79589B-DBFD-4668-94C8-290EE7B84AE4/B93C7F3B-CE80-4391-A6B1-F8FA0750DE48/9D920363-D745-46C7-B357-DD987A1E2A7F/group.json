@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D920363-D745-46C7-B357-DD987A1E2A7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "668843CC-D6BD-4D8C-97C1-9812BBE1D4AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "315D516C-681E-4339-B82D-94961C5DB58B",
+    "height": 45,
+    "width": 16,
+    "x": 75,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A993F47D-1CAF-4A0B-AD54-27EA86BE4591"
+    },
+    {
+      "class": "shapePath",
+      "id": "767BCEB7-2A87-4C18-80E9-6F0D8B0AE875"
+    },
+    {
+      "class": "shapePath",
+      "id": "78BBF36A-5767-41FA-9F89-8139DCA4CA9B"
+    },
+    {
+      "class": "shapePath",
+      "id": "815EBC1E-A50F-447E-A05C-BE355738F05E"
+    },
+    {
+      "class": "shapePath",
+      "id": "13DFB09D-718D-4AC2-ABCB-2640AB8331B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C8D2EA0-BF8D-4EA5-BD76-6DD066040A8C"
+    }
+  ],
+  "name": "r-wing",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "319156DD-BF42-45F9-9C70-E999D6784634",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
